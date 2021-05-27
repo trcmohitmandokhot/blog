@@ -98,8 +98,8 @@ analytics:
 # Site Author
 author:
   name             : "Mohit Mandokhot"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Engineer"
+  avatar           : "/assets/images/icon_no-user-image.png"
+  bio              : "Read, Write, Build. Else, {Relax, Explore}"
   location         : "Columbus, Ohio"
   email            :
   links:
