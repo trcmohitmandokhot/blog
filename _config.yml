@@ -23,7 +23,7 @@ email: mohitmandokhot@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog on Transportation, Engineering Leadership, and Software Development. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://mohitmandokhot.s3-website.us-east-2.amazonaws.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
 github_username:  trcmohitmandokhot
 
