@@ -7,6 +7,6 @@ This site was originally hosted on AWS S3. But this has been taken down and move
 
 ## Branches
 master - Deployment branch.  
-local - development branch. 
+local - Devel branch.  
 *feature* - particular branch.  
 
