@@ -6,3 +6,5 @@ _site
 vendor/
 .bundle/
 
+test_server.py
+
